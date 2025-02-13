@@ -1,1 +1,1 @@
-# Introduction-to-SQL-Language
+# Introduction to Structured Query Language (SQL)
